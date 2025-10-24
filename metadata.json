@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Construction Snagging App",
+  "description": "A punchlist application for construction sites that allows users to capture issues with photos and voice notes, categorize them by trade, and generate PDF reports for subcontractors.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
